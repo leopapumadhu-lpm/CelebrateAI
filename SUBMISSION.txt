@@ -1,0 +1,14 @@
+CelebrateAI - Project Submission
+
+Project: GenAI Celebration & Event Planner
+
+Deliverables:
+1. Live accessible web application URL
+2. Public GitHub repository under 10 MB
+3. Walkthrough demo video under 4 minutes
+
+Core features:
+Event ideas, budget planning, timelines, vendor checklist,
+PDF exports and CSV downloads.
+
+Note: The app must be deployed and tested before submitting a live URL.
